@@ -1,2 +1,3 @@
 # .github
-Wooooooooooooooo
+
+We are an Australian server network made with Minestom.
