@@ -1,3 +1,3 @@
 # .github
 
-We are an Australian server network made with Minestom.
+We develop minestom libraries with mangos :)
